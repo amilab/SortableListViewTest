@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SortableListViewTest</string>
+    <string name="desc_image_drag">Drag here!!</string>
+
+</resources>
